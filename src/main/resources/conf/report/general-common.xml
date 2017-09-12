@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 销售概览显示指标配置 -->
+<sector id="00000" name="通用指标">
+	<group desc="毛利额">
+		<row>
+			<index name="毛利率" field="GM_TOTAL" tqfield="GM_TOTAL_TQ" rankfield="GM_TOTAL_RANK" type="percent"></index>
+			<index name="单品毛利" field="GP_SKU_AVG" tqfield="GP_SKU_AVG_TQ" rankfield="GP_SKU_AVG_RANK" type="yuan"></index>
+			<index name="正毛利额" field="GP_POS" tqfield="GP_POS_TQ" rankfield="GP_POS_RANK" type="wanyuan"></index>
+			<index name="负毛利额" field="GP_NEG" tqfield="GP_NEG_TQ" rankfield="GP_NEG_RANK" type="wanyuan"></index>
+		</row>
+		<row>
+			<index name=""></index>
+			<index name=""></index>
+			<index name=""></index>
+			<index name=""></index>
+		</row>
+	</group>
+	<group desc="销售额">
+		<row>
+			<index name="销售量" field="NUM_TOTAL" tqfield="NUM_TOTAL_TQ" rankfield="NUM_TOTAL_RANK" type="none"></index>
+			<index name="单品均价" field="AMT_SKU_AVG" tqfield="AMT_SKU_AVG_TQ" rankfield="AMT_SKU_AVG_RANK" type="yuan"></index>
+			<index name=""></index>
+			<index name=""></index>
+		</row>
+		<row>
+			<index name=""></index>
+			<index name=""></index>
+			<index name=""></index>
+			<index name=""></index>
+		</row>
+	</group>
+</sector>

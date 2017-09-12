@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<capsule>
+	<block title="员工" type="staff">
+		<th name="员工" field="" type=""></th>
+		<th name="销售额" field="" type="money"></th>
+		<th name="销售量" field="" type="number"></th>
+		<th name="毛利额" field="" type="money"></th>
+		<th name="毛利率" field="" type="percent"></th>
+		<th name="均价" field="" type="money"></th>
+	</block>
+	<block title="员工-单品" type="goods">
+		<th name="单品" field="" type=""></th>
+		<th name="销售额" field="" type="money"></th>
+		<th name="销售量" field="" type="number"></th>
+		<th name="毛利额" field="" type="money"></th>
+		<th name="毛利率" field="" type="percent"></th>
+		<th name="均价" field="" type="money"></th>
+	</block>
+</capsule>

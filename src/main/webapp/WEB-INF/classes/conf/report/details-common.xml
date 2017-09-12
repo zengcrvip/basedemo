@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 销售明细显示指标配置 -->
+<sector id="00000" name="通用指标">
+	<group name="销售额">
+		<index name="任务" field="SL_TASK" type="wanyuan"></index>
+		<index name="完成" field="SL_AMT" type="wanyuan"></index>
+		<index name="完成率" field="SL_IMPL" type="percent"></index>
+	</group>
+	<group name="销售量">
+		<index name="销售量" field="SL_NUM" type="none"></index>
+	</group>
+	<group name="主推商品">
+		<index name="任务" field="MG_TASK" type="none"></index>
+		<index name="完成" field="MG_NUM" type="none"></index>
+		<index name="完成率" field="MG_IMPL" type="percent"></index>
+		<index name="占比" field="MG_PROP" type="percent"></index>
+	</group>
+	<group name="毛利">
+		<index name="毛利额" field="GP_AMT" type="wanyuan"></index>
+		<index name="毛利率" field="GP_RATE" type="percent"></index>
+	</group>
+</sector>

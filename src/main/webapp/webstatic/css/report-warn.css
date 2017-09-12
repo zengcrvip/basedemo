@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font: 15px "Microsoft Yahei", Arial, Helvetica, sans-serif, "宋体";
+	color: #333;
+	background-color: #e7e8e9;
+	letter-spacing: 0.05em;
+}
+
+#content {
+	border: 1px solid #DCDDE2;
+	background-color: #fff;
+	margin: 5px;
+	padding: 30px 40px 50px 40px;
+}
+
+h1 {
+	margin: 3px 0;
+	height: 32px;
+	font-size: 19px;
+	color: #1f1f1f;
+	line-height: 35px;
+}
+
+.warning {
+	background: url(/pmc-pc-web/webstatic/images/warning.gif) no-repeat left;
+	padding-left: 35px;
+}
+
+.organ {
+	background: url(/pmc-pc-web/webstatic/images/organ.png) no-repeat left;
+	padding-left: 35px;
+}
+
+.partition {
+	background-color: #00AEEF;
+	height: 2px;
+	margin-bottom: 8px;
+	font-size: 1px;
+}
+
+.partition_left {
+	background-color: #005AAB;
+	height: 2px;
+	border-right: #FFF solid 1px;
+	display: block
+}
+
+.b_distance {
+	padding-bottom: 12px;
+}
+
+.title {
+	display: inline-block;
+	width: 65px;
+	font-weight: bold;
+}
+
+/*针对小屏幕移动端*/
+@media only screen and (max-width: 480px) , ( max-height :400px) , (
+		max-device-width :240px) {
+	#content {
+		margin: 20px 10px;
+		padding: 20px 20px 40px 20px
+	}
+	.link,.data-field {
+		margin-left: 0px
+	}
+	.button_hide {
+		display: none
+	}
+}

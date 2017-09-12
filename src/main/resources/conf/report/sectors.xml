@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sectors>
+	<sector id="1" gid="00001" name="空调" />
+	<sector id="3" gid="00002" name="冰洗" />
+	<sector id="2" gid="00003" name="黑电" />
+	<sector id="6" gid="00004" name="数码" />
+	<sector id="7" gid="00005" name="电脑" />
+	<sector id="5" gid="00006" name="通讯" />
+	<sector id="4" gid="00007" name="小家电" />
+	<sector id="A" gid="00008" name="商用" />
+	<sector id="-" gid="00009" name="其它" />
+	<sector id="Y" gid="00010" name="自主产品" />
+	<sector id="B" gid="00011" name="OA办公" />
+	<sector id="C" gid="00012" name="运营商" />
+	<sector id="D" gid="00013" name="厨卫" />
+	<sector id="E" gid="00014" name="文化制品" />
+	<sector id="F" gid="00015" name="百货" />
+	<sector id="G" gid="00016" name="家居" />
+	<sector id="I" gid="00017" name="虚拟产品" />
+	<sector id="H" gid="00018" name="金融" />
+	<sector id="K" gid="00019" name="母婴" />
+	<sector id="L" gid="00020" name="美妆" />
+	<sector id="O" gid="00021" name="数字应用事业部" />
+	<sector id="N" gid="00022" name="商旅" />
+	<sector id="M" gid="00023" name="本地生活" />
+	<sector id="-" gid="00024" name="移动购物事业部" />
+	<sector id="V" gid="00025" name="进口保健生鲜" />
+	<sector id="Q" gid="00026" name="配件" />
+	<sector id="U" gid="00027" name="食品酒水" />
+	<sector id="-" gid="00028" name="售后事业部" />
+	<sector id="Z" gid="00030" name="延保服务" />
+</sector>

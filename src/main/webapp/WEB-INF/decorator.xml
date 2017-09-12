@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/WEB-INF/freemarker/decorators">
+	<excludes>
+		<pattern>/css/*</pattern>
+		<pattern>/images/*</pattern>
+		<pattern>/js/*</pattern>
+	</excludes>
+	<decorator name="ui_main" page="ui_main.ftl">
+		<pattern>*</pattern>
+	</decorator>
+</decorators>

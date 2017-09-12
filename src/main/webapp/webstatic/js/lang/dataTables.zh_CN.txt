@@ -1,0 +1,18 @@
+{
+	"sInfo":         	"第 _PAGE_ 页 (共 _PAGES_ 页)",
+	"sInfoEmpty":    	"共 0 页",
+	"sInfoFiltered": 	"(从 _MAX_ 条记录过滤)",
+	"sInfoPostFix":  	"",
+	"sInfoThousands":  	".",
+	"sLengthMenu":   	"每页 _MENU_ 条记录",
+	"sLoadingRecords": 	"数据加载中...",
+	"sProcessing":   	"数据处理中...",
+	"sSearch":       	"搜索:",
+	"sZeroRecords":  	"没有数据",
+	"oPaginate": {
+		"sFirst":    	"首页",
+		"sPrevious": 	"上一页",
+		"sNext":     	"下一页",
+		"sLast":     	"尾页"
+	}
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<capsule>
+	<block title="渠道" type="channel">
+		<th name="渠道" field="" type=""></th>
+		<th name="销售额" field="" type="money"></th>
+		<th name="销售量" field="" type="number"></th>
+		<th name="毛利额" field="" type="money"></th>
+		<th name="毛利率" field="" type="money"></th>
+	</block>
+	<block title="渠道-单品(TOP20)" type="goods">
+		<th name="单品" field="" type=""></th>
+		<th name="销售额" field="" type="money"></th>
+		<th name="销售量" field="" type="number"></th>
+		<th name="毛利额" field="" type="money"></th>
+		<th name="毛利率" field="" type="money"></th>
+		<th name="均价" field="" type="money"></th>
+	</block>
+	<block title="渠道-单品-员工" type="staff">
+		<th name="员工" field="" type=""></th>
+		<th name="销售额" field="" type="money"></th>
+		<th name="销售量" field="" type="number"></th>
+		<th name="毛利额" field="" type="money"></th>
+		<th name="毛利率" field="" type="percent"></th>
+		<th name="均价" field="" type="money"></th>
+	</block>
+</capsule>

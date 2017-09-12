@@ -1,0 +1,357 @@
+body {
+	margin: 0px;
+	background: white;
+	font-size: 13px;
+	font-family: "Microsoft YaHei";
+}
+
+.menu-bar {
+	padding: 5px;
+	background: #F4F4F4;
+}
+
+.menu-panel {
+	padding: 5px;
+	background: #F4F4F4;
+}
+
+.menu-panel .sector-label{
+	cursor: pointer;
+}
+
+.report-title {
+	padding: 5px 5px 0px 5px;
+	background: #FFF;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.report-subtitle {
+	padding: 8px 0 5px 10px;
+	background: #FFF;
+	color: #575765;
+}
+
+.report-subtitle span {
+	color: #000;
+	font-weight: bold;
+}
+
+.report-subtitle .right {
+	display: inline-block;
+	float: right;
+	margin: 0 10px;
+	font-size: 14px;
+}
+
+.report-region {
+	margin: 0 2px;
+	overflow: auto;
+	border-top: 1px solid #D3D3D3;
+	border-bottom: 1px solid #D3D3D3;
+}
+
+.fixed-panel {
+	position: absolute;
+	z-index: 100;
+}
+
+.part-header {
+	height: 20px;
+	padding: 5px;
+	line-height: 20px;
+	border-bottom: 1px solid #D3D3D3;
+	border-left: 1px solid #D3D3D3;
+	border-right: 1px solid #D3D3D3;
+	background: rgb(244, 244, 244);
+	overflow: hidden;
+}
+
+.part-header.fixed {
+	cursor: pointer;
+}
+
+.part-header input[type='radio'] {
+	margin: 0 2px;
+}
+
+.part-header label {
+	margin: 0 5px 0 0;
+	cursor: pointer;
+}
+
+.part-header .title {
+	color: #575765;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.part-content {
+	border-bottom: 1px solid #D3D3D3;
+	border-left: 1px solid #D3D3D3;
+	border-right: 1px solid #D3D3D3;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.part-content .name {
+	padding: 6px 0;
+	color: #474755;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.part-content .number {
+	padding: 4px 0;
+	color: #666;
+	font-size: 13px;
+}
+
+.part-content .nodata {
+	display: block;
+	color: #BBB;
+	font-size: 14px;
+	text-align: center;
+}
+
+.part-content .nodata:hover {
+	color: #666;
+}
+
+.part-content .grid-row {
+	height: 94px;
+	margin: 0 10px;
+}
+
+.part-content .grid-row.top {
+	border-top: 1px solid #D3D3D3;
+}
+
+.part-content .grid-row.left {
+	border-left: 1px solid #D3D3D3;
+}
+
+.part-content .grid-row.right {
+	border-right: 1px solid #D3D3D3;
+}
+
+.part-content .grid-row.bottom {
+	border-bottom: 1px solid #D3D3D3;
+}
+
+.part-content .grid-row .cell {
+	display: inline-block;
+	width: 156px;
+	height: 86px;
+	padding: 4px 6px;
+	overflow: hidden;
+}
+
+.part-content .grid-row .rowspan2 {
+	display: inline-block;
+	width: 156px;
+	height: 140px;
+	padding: 4px 6px;
+	overflow: hidden;
+}
+
+.part-content .grid-row .colspan4 {
+	display: inline-block;
+	width: 650px;
+	height: 94px;
+	padding: 0px 6px;
+	overflow: hidden;
+}
+
+.part-content .grid-row .cell.left {
+	border-left: 1px solid #D3D3D3;
+}
+
+.part-content .grid-row .cell.right {
+	border-right: 1px solid #D3D3D3;
+}
+
+.part-content .grid-row .cell.left {
+	border-left: 1px solid #D3D3D3;
+}
+
+.part-content .grid-row .cell.right {
+	border-right: 1px solid #D3D3D3;
+}
+
+.part-content .grid-row .rowspan2.left {
+	border-left: 1px solid #D3D3D3;
+}
+
+.part-content .grid-row .rowspan2.right {
+	border-right: 1px solid #D3D3D3;
+}
+
+.general-box {
+	min-height: 284px;
+}
+
+.general {
+
+}
+
+.general.normal {
+	height: 284px;
+}
+
+.general.tall {
+	height: 270px;
+}
+
+.general .chart {
+	display: inline-block;
+	width: 290px;
+	height: 182px;
+}
+
+.general .chart-detail {
+	display: inline-block;
+	width: 150px;
+	padding: 6px;
+	vertical-align: top;
+}
+
+.telcom {
+	height: 250px;
+}
+
+.telcom .chart {
+	display: inline-block;
+	width: 466px;
+	height: 250px;
+	vertical-align: top;
+}
+
+.telcom .chart-detail {
+	display: inline-block;
+	width: 676px;
+	height: 250px;
+	padding: 10px 5px;
+	border-left: 1px solid #D3D3D3;
+	border-right: 1px solid #D3D3D3;
+	vertical-align: top;
+}
+
+.capsule {
+	height: 460px;
+	padding: 0 10px;
+}
+
+.capsule .block {
+	height: 460px;
+	overflow: hidden;
+}
+
+.capsule .block .title{
+	padding: 5px;
+	text-align: center;
+	text-shadow: 0px 1px 1px #e4ebe9;
+	font-size: 16px;
+	font-weight: bold;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.capsule .block .detail {
+	padding: 10px 5px;
+}
+
+.notice {
+	margin: 2px 0;
+	font-size: 14px;
+	background: #EEE;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.notice .ntitle {
+	display: inline-block;
+	padding: 5px;
+	width: 120px;
+}
+
+.notice .ndate {
+	display: inline-block;
+	padding: 5px;
+}
+
+.notice .ncontent {
+	display: none;
+	margin: 2px 0;
+	padding: 10px;
+	height: 100px;
+	background: rgb(238, 238, 254);
+	border-top: 1px solid #CCCCCC;
+	overflow: auto;
+}
+
+.notice .nstatus {
+	padding: 5px;
+	font-weight: bold;
+}
+
+.notice .nstatus.unread {
+	color: green;
+}
+
+.notice .nstatus.readed {
+	color: #666;
+}
+
+.dialog-menus {
+	padding: 5px;
+	overflow: hidden;
+	background: rgb(244, 244, 244);
+}
+
+.dialog-panel {
+	overflow: auto;
+	background: white;
+}
+
+.dialog-panel.border {
+	border: 1px solid #DDD;
+}
+
+.dialog-panel.message {
+	width: 360px;
+	height: 180px;
+}
+
+.dialog-panel.noticebox {
+	width: 720px;
+	height: 280px;
+}
+
+.dialog-panel.printview {
+	width: 800px;
+	height: 280px;
+}
+
+.dialog-panel.ranking-area {
+	width: 520px;
+	height: 370px;
+}
+
+.dialog-panel.ranking-store {
+	width: 520px;
+	height: 370px;
+}
+
+.dialog-panel.drill-details {
+	width: 800px;
+	height: 370px;
+	overflow: hidden;
+}
+
+table tbody td.fixed-title {
+	cursor: pointer;
+}
+
+table tbody td.align-right {
+	text-align: right;
+}
