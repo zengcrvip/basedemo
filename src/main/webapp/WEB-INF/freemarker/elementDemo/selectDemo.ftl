@@ -80,6 +80,8 @@
 <script type="text/javascript">
 $(function(){
     $('#compArea').chosen({disable_search_threshold: 5});  //disable_search_threshold 当option超过5个时显示查询框，默认一直显示
+    $('#compArea').val("STORE:6");
+    $('#compArea').trigger('chosen:updated');
     $('#slIndexs').chosen({allow_single_deselect: true, max_selected_options: 8});//max_selected_options 当select为多选时，最多选择的个数
 	$('#detailsIndexs').chosen({allow_single_deselect: true}); //allow_single_deselect 是否允许取消选择
     

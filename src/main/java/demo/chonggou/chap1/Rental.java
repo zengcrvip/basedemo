@@ -5,7 +5,7 @@ package demo.chonggou.chap1;
  * Created by changrong.zeng on 2017/11/27.
  */
 public class Rental {
-    private Movie movie;
+    Movie movie;
     private int _daysRented;
 
     public Rental(Movie movie, int _daysRented) {
@@ -28,4 +28,13 @@ public class Rental {
     public void setMovie(Movie movie) {
         this.movie = movie;
     }
+
+    public double getCharge(){
+        return movie.getCharge(_daysRented);
+    }
+
+    public int getFrequentRenterPoints() {
+        return movie.getFrequentRenterPoints(_daysRented);
+    }
+
 }
