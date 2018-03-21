@@ -53,6 +53,23 @@
         </mvc:message-converters>
     </mvc:annotation-driven>
 
+    <!--<mvc:annotation-driven content-negotiation-manager="contentNegotiationManager">-->
+    <!--</mvc:annotation-driven>-->
+
+    <!--<bean id="contentNegotiationManager" class="org.springframework.web.accept.ContentNegotiationManagerFactoryBean">-->
+        <!--<property name="favorPathExtension" value="false"/>-->
+        <!--<property name="favorParameter" value="false"/>-->
+        <!--<property name="ignoreAcceptHeader" value="false"/>-->
+        <!--<property name="mediaTypes">-->
+            <!--<value>-->
+                <!--atom=application/atom+xml-->
+                <!--html=text/html-->
+                <!--json=application/json-->
+                <!--*=*/*-->
+            <!--</value>-->
+        <!--</property>-->
+    <!--</bean>-->
+
     <!-- 类型转换支持 -->
     <bean id="conversionService"
           class="org.springframework.context.support.ConversionServiceFactoryBean">

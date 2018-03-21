@@ -1,13 +1,19 @@
 package demo.controller;
 
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import demo.utils.JsonUtils;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
+
+import javax.servlet.http.HttpServletResponse;
 
 /**
  * 一些相关组件的demo
@@ -48,6 +54,22 @@ public class SomeElementDemo {
 		list.add(map1);list.add(map2);list.add(map3);list.add(map4);list.add(map5);
 		model.put("selectOption", list);
 		return new ModelAndView("elementDemo/selectDemo.ftl", model); 
+	}
+
+	@RequestMapping("/searchCardListByDesc")
+	@ResponseBody
+	public Map<String,String> getData(HttpServletResponse response) throws Exception {
+		Map<String,String> result = new HashMap<String, String>();
+		result.put("1","南京");
+		result.put("2","苏州");
+		result.put("3","无锡");
+		result.put("4","上海");
+		result.put("5","扬州");
+		result.put("6", "镇江");
+//		String s = JsonUtils.toJsonUseObjectMapper(result);
+//		PrintWriter writer = response.getWriter();
+//		writer.print(s);
+		return  result;
 	}
 	
 	
