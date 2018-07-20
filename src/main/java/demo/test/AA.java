@@ -1,17 +1,37 @@
 package demo.test;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
-import java.util.concurrent.locks.ReentrantLock;
 
 public class AA {
 	public int a;
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception{
 		AA aa = new AA();
 		System.out.println(AA.String_length("aB123"));
 
+		try {
+			a();
+			System.out.println("main===========");
+		} catch (Exception e) {
+			System.out.println("main catch");
+		}
+
+
+	}
+
+	public static  int a () throws Exception{
+		try {
+			int x = 10 /0;
+			return 0;
+		}catch (ArithmeticException e1){
+			System.out.println("ArithmeticException");
+			throw e1;
+		}catch (Exception e) {
+			System.out.println("Exception");
+			throw e;
+		} finally {
+			System.out.println("finally");
+			return 1;
+		}
 	}
 
 

@@ -17,8 +17,6 @@ public class NumAddTest {
         System.out.println(2.57*2.80);
         System.out.println(2.57*2.80 * 360);
 
-        ArrayList
-
 
         String strs = "abc,efd,errr,tdea";
         String str = "x";

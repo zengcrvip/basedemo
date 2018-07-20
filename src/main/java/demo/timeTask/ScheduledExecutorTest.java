@@ -43,12 +43,12 @@ public class ScheduledExecutorTest {
 				System.out.println("timerTwo,the time:"
 						+ (System.currentTimeMillis() - start));
 			}
-		}, 2000, TimeUnit.MILLISECONDS);
+		}, 20, TimeUnit.MILLISECONDS);
 	}
 
 	public static void main(String[] args) {
 		ScheduledExecutorTest test = new ScheduledExecutorTest();
-		test.timerOne();
+//		test.timerOne();
 		test.timerTwo();
 	}
 }
