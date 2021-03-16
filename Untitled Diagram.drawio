@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T15:07:57.514Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="2PV17JDa1tY4AZRRyuXC" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T15:18:30.233Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="wIZIMzxau-YDGZADwh58" version="14.4.8" type="github">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="Page-1">
     <mxGraphModel dx="1181" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-101" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="1200" height="890" as="geometry" />
+        </mxCell>
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-93" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="580" width="570" height="370" as="geometry" />
         </mxCell>
@@ -225,6 +228,33 @@
         </mxCell>
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-92" value="&lt;b&gt;现金钱包&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="780" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="770" y="640" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-95" value="&lt;ul&gt;&lt;li&gt;店铺满减券&lt;/li&gt;&lt;li&gt;店铺现金券&lt;/li&gt;&lt;li&gt;商品满减券&lt;/li&gt;&lt;li&gt;商品现金钱&lt;/li&gt;&lt;li&gt;私密券&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="670" width="160" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-96" value="&lt;b&gt;优惠券&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="650" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="945" y="640" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-98" value="&lt;ul&gt;&lt;li&gt;直降规则&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="670" width="160" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-99" value="&lt;b&gt;商家直降&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="945" y="650" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-102" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;优惠中心&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-106" value="配置、发放、查询、核销" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="165" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-107" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAABMAAAA0CAYAAABo+QNCAAAA20lEQVRYCe2VwQ3DIAxFGaEjdJQuUMIoCDpAF4vJKB0hG7RyIysWDRLYPUXOxU5MXh5fSHHOLkvgjAmEWK5/2VeI5TIleGFVA32anz7BG6sK9rXKsCJsyrCq7HYrNFPYcasNpLD7tRLaHVmJ7dpWArt7muMGpGOxQ/A5zkXHhLaHVQTgLxmMp9HXW2Z9OfFVlhlPo69XZzZlKBxS9zjvU3HOhUe51QB+j/NuGC70CRYOYP0yBMLFLbthK/rygd24FcFqO7EVAZmd3IpgZKe2IiD+3qi3aglYAq0EPuRfWq8qZ7cFAAAAAElFTkSuQmCC;" vertex="1" parent="1">
+          <mxGeometry x="701.73" y="155" width="18.27" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
