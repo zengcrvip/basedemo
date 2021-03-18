@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T17:31:53.266Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="mwRl9bvDlLzBO9WWl3DT" version="14.4.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-18T17:36:10.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="C76Pt_FOrMLcZHJfPr12" version="14.4.8" type="github" pages="3">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="Page-1">
     <mxGraphModel dx="1247" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-64" value="&lt;ul&gt;&lt;li&gt;订单平台补贴率&lt;/li&gt;&lt;li&gt;活动平台补贴率&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="934" width="130" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="jgpEuyPaL84JSYdbX6UQ-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="1121.5" y="402" width="155" height="141" as="geometry" />
         </mxCell>
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-67" value="&lt;b&gt;优惠退款&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -271,7 +271,7 @@
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-132" value="&lt;ul&gt;&lt;li&gt;直降规则&lt;/li&gt;&lt;li&gt;满减规则&lt;/li&gt;&lt;li&gt;优惠优先级&lt;/li&gt;&lt;li&gt;优惠策略&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="155" y="815" width="115" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="jgpEuyPaL84JSYdbX6UQ-133" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-133" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="293" y="790" width="150" height="110.5" as="geometry" />
         </mxCell>
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-134" value="&lt;b&gt;退货退款规则&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -335,13 +335,13 @@
           <mxGeometry x="610" y="416.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-159" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="790" y="384" width="135" height="121" as="geometry" />
+          <mxGeometry x="790" y="384" width="180" height="116" as="geometry" />
         </mxCell>
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-160" value="&lt;b&gt;提升运营效率&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="795" y="394.5" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jgpEuyPaL84JSYdbX6UQ-161" value="&lt;ul&gt;&lt;li&gt;日常运营可视化&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="785" y="416.5" width="140" height="33.5" as="geometry" />
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-161" value="&lt;ul&gt;&lt;li&gt;日常运营可视化&lt;/li&gt;&lt;li&gt;全部优惠可追溯，可管控&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="785" y="416.5" width="185" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="LFP7ez1P5SgkBRthCc_P-1" value="已完成" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#36393d;strokeWidth=1;fillColor=#cce5ff;" vertex="1" parent="1">
           <mxGeometry x="1066.5" y="85" width="60" height="20" as="geometry" />
