@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T15:33:03.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="f6d2fhpB8bbr2c3egxa9" version="14.4.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-18T17:31:53.266Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="mwRl9bvDlLzBO9WWl3DT" version="14.4.8" type="github" pages="3">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="Page-1">
-    <mxGraphModel dx="1224" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-24" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;平台优惠资产&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="628" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jgpEuyPaL84JSYdbX6UQ-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="155" y="263" width="100" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-29" value="&lt;b&gt;AOP月度预算&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -85,7 +85,7 @@
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-30" value="&lt;ul&gt;&lt;li&gt;编制&lt;/li&gt;&lt;li&gt;调整&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="155" y="285" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jgpEuyPaL84JSYdbX6UQ-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="439" y="262" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-33" value="&lt;b&gt;项目预算&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -94,7 +94,7 @@
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-34" value="&lt;ul&gt;&lt;li&gt;申请，审批&lt;/li&gt;&lt;li&gt;追加，审批&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="429" y="284" width="115" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="jgpEuyPaL84JSYdbX6UQ-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="277" y="261" width="130" height="61" as="geometry" />
         </mxCell>
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-36" value="&lt;b&gt;部门+费用类别预算&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -103,7 +103,7 @@
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-37" value="&lt;ul&gt;&lt;li&gt;申请&lt;/li&gt;&lt;li&gt;调整&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="277" y="283" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jgpEuyPaL84JSYdbX6UQ-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="jgpEuyPaL84JSYdbX6UQ-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="155" y="352" width="110" height="112" as="geometry" />
         </mxCell>
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-41" value="&lt;b&gt;奖励预算接入&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -343,6 +343,15 @@
         <mxCell id="jgpEuyPaL84JSYdbX6UQ-161" value="&lt;ul&gt;&lt;li&gt;日常运营可视化&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="785" y="416.5" width="140" height="33.5" as="geometry" />
         </mxCell>
+        <mxCell id="LFP7ez1P5SgkBRthCc_P-1" value="已完成" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#36393d;strokeWidth=1;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="1066.5" y="85" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LFP7ez1P5SgkBRthCc_P-2" value="规划" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#36393d;strokeWidth=1;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1224" y="85" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LFP7ez1P5SgkBRthCc_P-3" value="在做" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="85" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -351,9 +360,6 @@
       <root>
         <mxCell id="8sXxxHaNAn2oleYn57ye-0" />
         <mxCell id="8sXxxHaNAn2oleYn57ye-1" parent="8sXxxHaNAn2oleYn57ye-0" />
-        <mxCell id="8sXxxHaNAn2oleYn57ye-139" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#000000;strokeWidth=2;fontColor=#FF3333;fillColor=#FFFFFF;" vertex="1" parent="8sXxxHaNAn2oleYn57ye-1">
-          <mxGeometry x="320" y="1020" width="490" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="8sXxxHaNAn2oleYn57ye-2" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;strokeWidth=2;" vertex="1" parent="8sXxxHaNAn2oleYn57ye-1">
           <mxGeometry x="110" y="131" width="1010" height="708" as="geometry" />
         </mxCell>
