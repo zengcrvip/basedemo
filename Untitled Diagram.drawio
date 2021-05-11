@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T11:58:03.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ILsExBn1rpTUhxPN5KL1" version="14.6.10" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-11T02:55:23.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="47ovsc_a8j7lNer5iKX2" version="14.6.10" type="github" pages="4">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2002" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -578,7 +578,7 @@
         <mxCell id="0-YHpFXif_wM8kScr-h2-9" value="MVPPromotionCouponManageServer" style="rounded=0;whiteSpace=wrap;html=1;" parent="0-YHpFXif_wM8kScr-h2-1" vertex="1">
           <mxGeometry x="40" y="435" width="227" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hiOiL240qbdZxZ5FTbmm-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#FF3333;strokeColor=#000000;" edge="1" parent="0-YHpFXif_wM8kScr-h2-1" source="0-YHpFXif_wM8kScr-h2-11" target="hiOiL240qbdZxZ5FTbmm-6">
+        <mxCell id="hiOiL240qbdZxZ5FTbmm-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;fontColor=#FF3333;strokeColor=#000000;" edge="1" parent="0-YHpFXif_wM8kScr-h2-1" source="0-YHpFXif_wM8kScr-h2-11" target="0-YHpFXif_wM8kScr-h2-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-YHpFXif_wM8kScr-h2-11" value="MVPPromotionCouponCoreServer" style="rounded=0;whiteSpace=wrap;html=1;" parent="0-YHpFXif_wM8kScr-h2-1" vertex="1">
@@ -656,7 +656,7 @@
             <mxPoint x="783" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hiOiL240qbdZxZ5FTbmm-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontColor=#FF3333;strokeColor=#000000;" edge="1" parent="0-YHpFXif_wM8kScr-h2-1" source="0-YHpFXif_wM8kScr-h2-33" target="hiOiL240qbdZxZ5FTbmm-6">
+        <mxCell id="hiOiL240qbdZxZ5FTbmm-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF3333;strokeColor=#000000;" edge="1" parent="0-YHpFXif_wM8kScr-h2-1" source="0-YHpFXif_wM8kScr-h2-33" target="0-YHpFXif_wM8kScr-h2-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-YHpFXif_wM8kScr-h2-33" value="MVPPromotionCouponNoCoreServer" style="rounded=0;whiteSpace=wrap;html=1;" parent="0-YHpFXif_wM8kScr-h2-1" vertex="1">
@@ -766,7 +766,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-YHpFXif_wM8kScr-h2-64" value="MVPAllowanceServer" style="rounded=0;whiteSpace=wrap;html=1;" parent="0-YHpFXif_wM8kScr-h2-1" vertex="1">
-          <mxGeometry x="920" y="436.25" width="180" height="63.75" as="geometry" />
+          <mxGeometry x="1151" y="433.12" width="180" height="63.75" as="geometry" />
         </mxCell>
         <mxCell id="0-YHpFXif_wM8kScr-h2-65" value="allowance db" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="0-YHpFXif_wM8kScr-h2-1" vertex="1">
           <mxGeometry x="965" y="830" width="90" height="102.5" as="geometry" />
@@ -775,7 +775,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-YHpFXif_wM8kScr-h2-67" value="wallet" style="rounded=0;whiteSpace=wrap;html=1;" parent="0-YHpFXif_wM8kScr-h2-1" vertex="1">
-          <mxGeometry x="1170" y="436.25" width="180" height="60" as="geometry" />
+          <mxGeometry x="1420" y="435" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0-YHpFXif_wM8kScr-h2-68" value="wallet db" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="0-YHpFXif_wM8kScr-h2-1" vertex="1">
           <mxGeometry x="1230" y="817.5" width="90" height="102.5" as="geometry" />
@@ -817,16 +817,13 @@
         <mxCell id="hiOiL240qbdZxZ5FTbmm-3" value="配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="0-YHpFXif_wM8kScr-h2-1">
           <mxGeometry x="-390" y="625" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hiOiL240qbdZxZ5FTbmm-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.604;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF3333;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="0-YHpFXif_wM8kScr-h2-1" source="hiOiL240qbdZxZ5FTbmm-6" target="0-YHpFXif_wM8kScr-h2-41">
+        <mxCell id="hiOiL240qbdZxZ5FTbmm-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FF3333;strokeColor=#000000;" edge="1" parent="0-YHpFXif_wM8kScr-h2-1" source="hiOiL240qbdZxZ5FTbmm-12" target="0-YHpFXif_wM8kScr-h2-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="538" y="700" as="sourcePoint" />
+            <mxPoint x="500" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hiOiL240qbdZxZ5FTbmm-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.556;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF3333;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="0-YHpFXif_wM8kScr-h2-1" source="hiOiL240qbdZxZ5FTbmm-6" target="0-YHpFXif_wM8kScr-h2-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hiOiL240qbdZxZ5FTbmm-6" value="MVPPromotionCouponDBServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0-YHpFXif_wM8kScr-h2-1">
-          <mxGeometry x="440" y="640" width="210" height="63.75" as="geometry" />
+        <mxCell id="hiOiL240qbdZxZ5FTbmm-12" value="MVPPromotionPriceServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0-YHpFXif_wM8kScr-h2-1">
+          <mxGeometry x="1080" y="153.75" width="223" height="56.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
