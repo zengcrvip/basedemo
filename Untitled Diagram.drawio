@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T17:35:43.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="RLxuTFfctM-SQIcdD91P" version="14.7.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-25T03:16:32.210Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="FWuY6DUQUVv-9ARuTvT1" version="14.7.0" type="github" pages="6">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2275" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -829,7 +829,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nkOsy8ND9z8sCHvrO7sB" name="Page-5">
-    <mxGraphModel dx="2531" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2531" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zhtJoEb3KpzVMtLaywFm-0" />
         <mxCell id="zhtJoEb3KpzVMtLaywFm-1" parent="zhtJoEb3KpzVMtLaywFm-0" />
@@ -977,8 +977,8 @@
         <mxCell id="-cfuRk6bI_y7lm9HreLR-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="zhtJoEb3KpzVMtLaywFm-1" vertex="1">
           <mxGeometry x="-100" y="621" width="125" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="-cfuRk6bI_y7lm9HreLR-120" value="&lt;ul&gt;&lt;li&gt;平台优惠券&lt;/li&gt;&lt;li&gt;商家优惠券&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zhtJoEb3KpzVMtLaywFm-1" vertex="1">
-          <mxGeometry x="-100" y="635" width="160" height="81" as="geometry" />
+        <mxCell id="-cfuRk6bI_y7lm9HreLR-120" value="&lt;ul&gt;&lt;li&gt;平台优惠券&lt;/li&gt;&lt;li&gt;商家优惠券&lt;/li&gt;&lt;li&gt;微信卡券&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zhtJoEb3KpzVMtLaywFm-1" vertex="1">
+          <mxGeometry x="-100" y="638" width="160" height="81" as="geometry" />
         </mxCell>
         <mxCell id="-cfuRk6bI_y7lm9HreLR-121" value="&lt;b&gt;优惠券&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zhtJoEb3KpzVMtLaywFm-1" vertex="1">
           <mxGeometry x="-87" y="635" width="82" height="20.5" as="geometry" />
@@ -1042,6 +1042,9 @@
         </mxCell>
         <mxCell id="URo0mgAISVAujtMq11es-0" value="已完成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zhtJoEb3KpzVMtLaywFm-1">
           <mxGeometry x="510" y="49.5" width="70" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-IbLR8QfQWgZsOUDXSt-0" value="&lt;ul&gt;&lt;li&gt;津贴比例&lt;/li&gt;&lt;li&gt;津贴账户&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zhtJoEb3KpzVMtLaywFm-1">
+          <mxGeometry x="81" y="635" width="160" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
