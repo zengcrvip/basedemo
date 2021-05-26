@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T16:32:54.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="P80urjVEPq9LN35z0w7K" version="14.7.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-26T16:52:55.283Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="OwgoCA1IDFDgdslQucfw" version="14.7.0" type="github" pages="6">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2063" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -829,7 +829,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nkOsy8ND9z8sCHvrO7sB" name="优惠中心业务架构二期">
-    <mxGraphModel dx="2063" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2063" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zhtJoEb3KpzVMtLaywFm-0" />
         <mxCell id="zhtJoEb3KpzVMtLaywFm-1" parent="zhtJoEb3KpzVMtLaywFm-0" />
@@ -854,7 +854,7 @@
         <mxCell id="-cfuRk6bI_y7lm9HreLR-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" parent="zhtJoEb3KpzVMtLaywFm-1" vertex="1">
           <mxGeometry x="510" y="200" width="221" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="-cfuRk6bI_y7lm9HreLR-24" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;平台优惠资产&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="zhtJoEb3KpzVMtLaywFm-1" vertex="1">
+        <mxCell id="-cfuRk6bI_y7lm9HreLR-24" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;优惠权益资产&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="zhtJoEb3KpzVMtLaywFm-1" vertex="1">
           <mxGeometry x="153" y="580" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-cfuRk6bI_y7lm9HreLR-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="zhtJoEb3KpzVMtLaywFm-1" vertex="1">
@@ -1013,7 +1013,7 @@
         <mxCell id="-cfuRk6bI_y7lm9HreLR-145" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="zhtJoEb3KpzVMtLaywFm-1" vertex="1">
           <mxGeometry x="-281.5" y="259.5" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-cfuRk6bI_y7lm9HreLR-146" value="&lt;b&gt;奖励预算分配&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zhtJoEb3KpzVMtLaywFm-1" vertex="1">
+        <mxCell id="-cfuRk6bI_y7lm9HreLR-146" value="&lt;b&gt;优惠预算分配&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zhtJoEb3KpzVMtLaywFm-1" vertex="1">
           <mxGeometry x="-271.5" y="268" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-cfuRk6bI_y7lm9HreLR-147" value="&lt;ul&gt;&lt;li&gt;优惠券&lt;/li&gt;&lt;li&gt;津贴&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;background-color: rgb(255 , 206 , 159)&quot;&gt;商品直降&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;background-color: rgb(255 , 206 , 159)&quot;&gt;砍价&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;background-color: rgb(255 , 206 , 159)&quot;&gt;现金&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zhtJoEb3KpzVMtLaywFm-1" vertex="1">
