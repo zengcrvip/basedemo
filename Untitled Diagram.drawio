@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T16:52:55.283Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="OwgoCA1IDFDgdslQucfw" version="14.7.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-26T18:12:06.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="F_OKTaiePq8W5qCDitcO" version="14.7.0" type="github" pages="6">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2063" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1059,7 +1059,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CoXlxYotjVArT1YUwOQi" name="Page-6">
-    <mxGraphModel dx="1236" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1236" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JPZ9k3mv4p0gHDX1aRgl-0" />
         <mxCell id="JPZ9k3mv4p0gHDX1aRgl-1" parent="JPZ9k3mv4p0gHDX1aRgl-0" />
@@ -1096,7 +1096,7 @@
         <mxCell id="jflisjEGzjy-Pkxn8HjA-5" value="&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;追加发放预算（不占用项目预算）&lt;br&gt;&lt;/b&gt;发放预算的修改金额必须满足核销/发放比例在当前实际核销比*2-100%之间" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="JPZ9k3mv4p0gHDX1aRgl-1">
           <mxGeometry x="442.5" y="335" width="270" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jflisjEGzjy-Pkxn8HjA-7" value="&lt;b&gt;发放熔断&lt;/b&gt;&lt;br&gt;1、预算通知优惠停止发放&lt;br&gt;2、告警提示优惠已下线" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JPZ9k3mv4p0gHDX1aRgl-1">
+        <mxCell id="jflisjEGzjy-Pkxn8HjA-7" value="&lt;b&gt;发放熔断&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;1、优惠停止发放&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、告警提示优惠已下线&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JPZ9k3mv4p0gHDX1aRgl-1">
           <mxGeometry x="210" y="480" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jflisjEGzjy-Pkxn8HjA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JPZ9k3mv4p0gHDX1aRgl-1" source="jflisjEGzjy-Pkxn8HjA-8" target="jflisjEGzjy-Pkxn8HjA-10">
@@ -1120,13 +1120,13 @@
         <mxCell id="jflisjEGzjy-Pkxn8HjA-8" value="核销到&lt;br&gt;90%告警" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="JPZ9k3mv4p0gHDX1aRgl-1">
           <mxGeometry x="532.5" y="470" width="90" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="jflisjEGzjy-Pkxn8HjA-9" value="&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;追加核销预算（占用项目预算）&lt;br&gt;&lt;/b&gt;1、核销预算&amp;lt;=发放预算&lt;br&gt;2、券核销率超过80%(动态配置的指标)&lt;br&gt;2、已失效的优惠券继续核销" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="JPZ9k3mv4p0gHDX1aRgl-1">
+        <mxCell id="jflisjEGzjy-Pkxn8HjA-9" value="&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;追加核销预算（占用项目预算）&lt;br&gt;&lt;/b&gt;1、核销预算&amp;lt;=发放预算&lt;br&gt;2、券核销率超过80%(动态配置的指标)&lt;br&gt;2、已领取的优惠券继续核销" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="JPZ9k3mv4p0gHDX1aRgl-1">
           <mxGeometry x="477.5" y="740" width="212.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jflisjEGzjy-Pkxn8HjA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JPZ9k3mv4p0gHDX1aRgl-1" source="jflisjEGzjy-Pkxn8HjA-10" target="jflisjEGzjy-Pkxn8HjA-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jflisjEGzjy-Pkxn8HjA-10" value="&lt;b&gt;核销熔断&lt;/b&gt;&lt;br&gt;1、预算通知优惠停止发放+已领取的失效&lt;br&gt;2、告警提示优惠已下线&lt;br&gt;+领取的已失效" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JPZ9k3mv4p0gHDX1aRgl-1">
+        <mxCell id="jflisjEGzjy-Pkxn8HjA-10" value="&lt;b&gt;核销熔断&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1、优惠停止发放&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;+已领取的失效&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、告警提示优惠已下线&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;+领取的已失效&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JPZ9k3mv4p0gHDX1aRgl-1">
           <mxGeometry x="760" y="630" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
