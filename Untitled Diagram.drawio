@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T07:16:50.058Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="DYmsHf6TxcxmXGHpp23J" version="14.7.10" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-07-12T07:21:29.950Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="lPhIwIC8UuVAu245SbCd" version="14.7.10" type="github" pages="10">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2063" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1487,6 +1487,30 @@
         <mxCell id="6i_0Fs5qq4z1n0ZeGLzT-5" value="MVPPromotionCouponManageServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1">
           <mxGeometry y="743" width="210" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="xEVzFtlTHOHdtgInDjzT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1" source="6i_0Fs5qq4z1n0ZeGLzT-7" target="xEVzFtlTHOHdtgInDjzT-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xEVzFtlTHOHdtgInDjzT-2" value="微信卡券API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEVzFtlTHOHdtgInDjzT-1">
+          <mxGeometry x="-0.1965" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xEVzFtlTHOHdtgInDjzT-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1" source="6i_0Fs5qq4z1n0ZeGLzT-7" target="6i_0Fs5qq4z1n0ZeGLzT-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xEVzFtlTHOHdtgInDjzT-4" value="优惠券领取/过期模板消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEVzFtlTHOHdtgInDjzT-3">
+          <mxGeometry x="-0.1735" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xEVzFtlTHOHdtgInDjzT-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1" source="6i_0Fs5qq4z1n0ZeGLzT-7" target="6i_0Fs5qq4z1n0ZeGLzT-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xEVzFtlTHOHdtgInDjzT-6" value="优惠券数据同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEVzFtlTHOHdtgInDjzT-5">
+          <mxGeometry x="-0.007" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6i_0Fs5qq4z1n0ZeGLzT-7" value="MVPPromotionCouponCoreServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1">
           <mxGeometry x="1090" y="411.13" width="210" height="63.75" as="geometry" />
         </mxCell>
@@ -1772,6 +1796,9 @@
         </mxCell>
         <mxCell id="6i_0Fs5qq4z1n0ZeGLzT-100" value="搜推" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1">
           <mxGeometry x="-600" y="-110" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xEVzFtlTHOHdtgInDjzT-0" value="&lt;div&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;MVPCouponWXChannelServer&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1">
+          <mxGeometry x="1490" y="411.13" width="210" height="63.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
