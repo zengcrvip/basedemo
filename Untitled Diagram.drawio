@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T07:57:42.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Mzzsv3EB_LuJBlM-jIaT" version="14.7.10" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-07-12T07:58:35.017Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="0cprPb9zHzX3BKalEmxU" version="14.7.10" type="github" pages="10">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2063" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1816,7 +1816,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xEVzFtlTHOHdtgInDjzT-8" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;FcgiGeneralVirtualAssetServer&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1">
+        <mxCell id="xEVzFtlTHOHdtgInDjzT-8" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;FcgiGeneralVirtualAssetServer&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1">
           <mxGeometry x="700" y="690" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xEVzFtlTHOHdtgInDjzT-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1" source="xEVzFtlTHOHdtgInDjzT-9" target="xEVzFtlTHOHdtgInDjzT-8">
