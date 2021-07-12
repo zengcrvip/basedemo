@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T07:15:57.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="EeHSFa9UPHu_UTU7F6dq" version="14.7.10" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-07-12T07:16:50.058Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="DYmsHf6TxcxmXGHpp23J" version="14.7.10" type="github" pages="10">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2063" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1580,7 +1580,7 @@
         <mxCell id="6i_0Fs5qq4z1n0ZeGLzT-28" value="FcgiYZMarketingPromotionServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1">
           <mxGeometry x="520" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6i_0Fs5qq4z1n0ZeGLzT-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.385;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1" source="6i_0Fs5qq4z1n0ZeGLzT-31" target="6i_0Fs5qq4z1n0ZeGLzT-28">
+        <mxCell id="6i_0Fs5qq4z1n0ZeGLzT-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1" source="6i_0Fs5qq4z1n0ZeGLzT-31" target="6i_0Fs5qq4z1n0ZeGLzT-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6i_0Fs5qq4z1n0ZeGLzT-30" value="领取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6i_0Fs5qq4z1n0ZeGLzT-29">
@@ -1589,13 +1589,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6i_0Fs5qq4z1n0ZeGLzT-31" value="c端用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1">
-          <mxGeometry x="560" y="-110" width="120" height="80" as="geometry" />
+          <mxGeometry x="590" y="-110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6i_0Fs5qq4z1n0ZeGLzT-37" value="MVPPromotionCouponDataTransferServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1">
-          <mxGeometry x="1090" y="740" width="240" height="50" as="geometry" />
+          <mxGeometry x="1290" y="600" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6i_0Fs5qq4z1n0ZeGLzT-41" value="MVPPromotionCouponTimerServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1">
-          <mxGeometry x="1090" y="585" width="220" height="55" as="geometry" />
+          <mxGeometry x="960" y="600" width="220" height="55" as="geometry" />
         </mxCell>
         <mxCell id="6i_0Fs5qq4z1n0ZeGLzT-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="6i_0Fs5qq4z1n0ZeGLzT-1" source="6i_0Fs5qq4z1n0ZeGLzT-49">
           <mxGeometry relative="1" as="geometry">
