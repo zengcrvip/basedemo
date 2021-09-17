@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T12:22:07.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="8BIO-iLsf54Q1XKsA3eR" version="15.2.7" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2021-09-17T09:12:27.201Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="RxkybEAJ0-LY87DnHAq3" version="15.2.7" type="github" pages="18">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2073" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2486,7 +2486,7 @@
         <mxCell id="V1RynJqkY-YlxK95Zz1X-24" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px&quot;&gt;MVPPromotionCouponCoreServer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="V1RynJqkY-YlxK95Zz1X-1" vertex="1">
           <mxGeometry x="660" y="80" width="214" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="V1RynJqkY-YlxK95Zz1X-25" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px&quot;&gt;MVPPromotionCouponCoreServer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="V1RynJqkY-YlxK95Zz1X-1" vertex="1">
+        <mxCell id="V1RynJqkY-YlxK95Zz1X-25" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px&quot;&gt;MVPPromotionCouponNoCoreServer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="V1RynJqkY-YlxK95Zz1X-1" vertex="1">
           <mxGeometry x="870" y="400" width="214" height="70" as="geometry" />
         </mxCell>
         <mxCell id="V1RynJqkY-YlxK95Zz1X-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="V1RynJqkY-YlxK95Zz1X-1" source="V1RynJqkY-YlxK95Zz1X-26" target="V1RynJqkY-YlxK95Zz1X-20" edge="1">
@@ -2579,7 +2579,7 @@
         <mxCell id="RCHFHqrTXz3iWZK9OSZD-21" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px&quot;&gt;MVPPromotionCouponCoreServer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V1RynJqkY-YlxK95Zz1X-1">
           <mxGeometry x="640" y="1000" width="214" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RCHFHqrTXz3iWZK9OSZD-22" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px&quot;&gt;MVPPromotionCouponCoreServer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V1RynJqkY-YlxK95Zz1X-1">
+        <mxCell id="RCHFHqrTXz3iWZK9OSZD-22" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 8px&quot;&gt;MVPPromotionCouponNoCoreServer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V1RynJqkY-YlxK95Zz1X-1">
           <mxGeometry x="850" y="1320" width="214" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RCHFHqrTXz3iWZK9OSZD-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="V1RynJqkY-YlxK95Zz1X-1" source="RCHFHqrTXz3iWZK9OSZD-24" target="RCHFHqrTXz3iWZK9OSZD-17">
