@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T09:14:00.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="mtj49DPRFzKo8hPq8pqg" version="15.2.9" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2021-09-21T13:21:07.170Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="p8TXe7XXgfoEgmRmMWqI" version="15.2.9" type="github" pages="20">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2073" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2808,6 +2808,35 @@
         </mxCell>
         <mxCell id="3la7b5sr8my847P18aLD-61" value="&lt;font color=&quot;#ff7340&quot;&gt;券记录spu下每个sku对应的plan以及当前可用情况&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XOMkDb5tNqiAkp6W4Ymr-1">
           <mxGeometry x="1020" y="190" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_zsaZIHwqGL2hl0j7vyp" name="Page-20">
+    <mxGraphModel dx="1242" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="_5qvcNPHDAqmTk1e5I5A-0" />
+        <mxCell id="_5qvcNPHDAqmTk1e5I5A-1" parent="_5qvcNPHDAqmTk1e5I5A-0" />
+        <mxCell id="_5qvcNPHDAqmTk1e5I5A-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_5qvcNPHDAqmTk1e5I5A-1">
+          <mxGeometry x="330" y="45" width="280" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="_5qvcNPHDAqmTk1e5I5A-2" value="SpuId:12&lt;br&gt;PlanidList:&lt;br&gt;[123,124,125]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_5qvcNPHDAqmTk1e5I5A-1">
+          <mxGeometry x="50" y="80" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_5qvcNPHDAqmTk1e5I5A-3" value="SpuId:12&lt;br&gt;SkuList:&lt;br&gt;[{SkuId:123,PlanId:1,Valid:true},&lt;br&gt;{SkuId:124,PlanId:2,Valid:true},&lt;br&gt;{SkuId:125,PlanId:3,valid:true}]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_5qvcNPHDAqmTk1e5I5A-1">
+          <mxGeometry x="360" y="80" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_5qvcNPHDAqmTk1e5I5A-4" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="_5qvcNPHDAqmTk1e5I5A-1">
+          <mxGeometry x="420" y="190" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_5qvcNPHDAqmTk1e5I5A-5" value="SpuId:12&lt;br&gt;SkuList:&lt;br&gt;[{SkuId:123,PlanId:1,&lt;font color=&quot;#ff3333&quot;&gt;Valid:false&lt;/font&gt;},&lt;br&gt;{SkuId:124,PlanId:2,Valid:true},&lt;br&gt;{SkuId:125,PlanId:3,valid:true}]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_5qvcNPHDAqmTk1e5I5A-1">
+          <mxGeometry x="360" y="300" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_5qvcNPHDAqmTk1e5I5A-6" value="&lt;font style=&quot;font-size: 12px&quot;&gt;消费planid = 1&lt;br&gt;推广库存不足消息&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="_5qvcNPHDAqmTk1e5I5A-1">
+          <mxGeometry x="450" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5qvcNPHDAqmTk1e5I5A-8" value="优化后" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="_5qvcNPHDAqmTk1e5I5A-1">
+          <mxGeometry x="220" y="102.5" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
