@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T09:06:05.017Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="7un5MkXS6O7_Hzv8WSCp" version="15.2.9" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2021-09-21T09:14:00.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="mtj49DPRFzKo8hPq8pqg" version="15.2.9" type="github" pages="19">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2073" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2642,7 +2642,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="17DI2bG-SvvDF7vOOGx6" name="Page-19">
+  <diagram id="17DI2bG-SvvDF7vOOGx6" name="KOC券生命周期">
     <mxGraphModel dx="1242" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XOMkDb5tNqiAkp6W4Ymr-0" />
