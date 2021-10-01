@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T14:02:22.261Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="qf8_5BsIdybLMqsISOHc" version="15.4.0" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2021-10-01T14:19:10.191Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="7riYsZtsQ-LnqEcYifUO" version="15.4.0" type="github" pages="21">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2069" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2850,13 +2850,13 @@
           <mxGeometry x="40" y="10" width="990" height="760" as="geometry" />
         </mxCell>
         <mxCell id="p7Q0ssSOR2i5MoWGEnmc-1" value="待生效" style="rounded=0;whiteSpace=wrap;html=1;" parent="_dLfcmDDEi_Dw0VCFMzW-1" vertex="1">
-          <mxGeometry x="120" y="1030" width="170" height="60" as="geometry" />
+          <mxGeometry x="130" y="1310" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p7Q0ssSOR2i5MoWGEnmc-2" value="生效中" style="rounded=0;whiteSpace=wrap;html=1;" parent="_dLfcmDDEi_Dw0VCFMzW-1" vertex="1">
-          <mxGeometry x="290" y="1030" width="160" height="60" as="geometry" />
+          <mxGeometry x="300" y="1310" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p7Q0ssSOR2i5MoWGEnmc-3" value="使用中" style="rounded=0;whiteSpace=wrap;html=1;" parent="_dLfcmDDEi_Dw0VCFMzW-1" vertex="1">
-          <mxGeometry x="450" y="1030" width="150" height="60" as="geometry" />
+          <mxGeometry x="460" y="1310" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p7Q0ssSOR2i5MoWGEnmc-5" value="津贴账户" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="_dLfcmDDEi_Dw0VCFMzW-1" vertex="1">
           <mxGeometry x="130" y="510" width="180" height="220" as="geometry" />
@@ -3296,7 +3296,10 @@
           <mxGeometry x="920" y="40" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p7Q0ssSOR2i5MoWGEnmc-163" value="已过期" style="rounded=0;whiteSpace=wrap;html=1;" parent="_dLfcmDDEi_Dw0VCFMzW-1" vertex="1">
-          <mxGeometry x="600" y="1030" width="150" height="60" as="geometry" />
+          <mxGeometry x="610" y="1310" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hv8s6r9FXq3UVGvlLfN9-0" value="1、10.1号用户A发放一笔津贴，流水ID：f123，金额100，10.3号0点失效，账户余额100&lt;br&gt;2、10.2号23:59分下单使用津贴50，订单ID：r456，账户余额50，异步核销发放流水ID：123，还未处理，账户余额表lock = 1&lt;br&gt;3、10.3号0点定时job扫描到发放流水f123，需要扣减100，发现lock = 1,不处理" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="_dLfcmDDEi_Dw0VCFMzW-1">
+          <mxGeometry x="180" y="910" width="680" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
