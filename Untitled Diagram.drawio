@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T12:08:17.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="QBlDkEA1yvtiDf9EqIvB" version="15.4.0" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-10-02T12:18:46.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="w8Sh4kjpNWa4GPM8Y4eT" version="15.4.0" type="github" pages="23">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2069" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3352,7 +3352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mfCmwobFLVf8kzXEWAFA" name="Page-23">
-    <mxGraphModel dx="1242" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MmEl2qWawEi7g1wsBcFU-0" />
         <mxCell id="MmEl2qWawEi7g1wsBcFU-1" parent="MmEl2qWawEi7g1wsBcFU-0" />
@@ -3383,6 +3383,19 @@
         </mxCell>
         <mxCell id="MmEl2qWawEi7g1wsBcFU-30" value="长期方案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MmEl2qWawEi7g1wsBcFU-29" vertex="1" connectable="0">
           <mxGeometry x="-0.0649" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPFr3NnEbSQJtNJTBf97-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="MmEl2qWawEi7g1wsBcFU-1" source="MmEl2qWawEi7g1wsBcFU-3" target="MmEl2qWawEi7g1wsBcFU-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="359" />
+              <mxPoint x="170" y="659" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPFr3NnEbSQJtNJTBf97-15" value="查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OPFr3NnEbSQJtNJTBf97-14">
+          <mxGeometry x="-0.0386" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
