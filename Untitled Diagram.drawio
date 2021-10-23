@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T06:56:44.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="F8wkTkKqi59fgv24LIEk" version="15.5.8" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2021-10-23T07:03:01.156Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ZhQ5GiJ-D3G_rVUxq8Nf" version="15.5.8" type="github" pages="25">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2064" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3955,8 +3955,8 @@
       <root>
         <mxCell id="tQ9XBjgSLWE470NsIDg6-0" />
         <mxCell id="tQ9XBjgSLWE470NsIDg6-1" parent="tQ9XBjgSLWE470NsIDg6-0" />
-        <mxCell id="PztIUCei1mCKiwkVC8Rn-0" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="tQ9XBjgSLWE470NsIDg6-1">
-          <mxGeometry x="360" y="350" width="70" height="90" as="geometry" />
+        <mxCell id="PztIUCei1mCKiwkVC8Rn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="tQ9XBjgSLWE470NsIDg6-1">
+          <mxGeometry x="100" y="170" width="260" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
