@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T11:33:20.639Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="qkvXD9o2xt0q0aJNIFns" version="15.5.8" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2021-10-26T16:43:20.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="hS17dX1rh0srmTljxGS7" version="15.5.8" type="github" pages="28">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2064" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4181,39 +4181,39 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B6F7vx9_pMnSAPoVyxC1" name="Page-27">
-    <mxGraphModel dx="1237" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="897" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wcvD8dBb-5YOF9ESSZEJ-0" />
         <mxCell id="wcvD8dBb-5YOF9ESSZEJ-1" parent="wcvD8dBb-5YOF9ESSZEJ-0" />
-        <mxCell id="dCLN6TyMH9J4tYiBf_dg-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wcvD8dBb-5YOF9ESSZEJ-1">
+        <mxCell id="dCLN6TyMH9J4tYiBf_dg-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="wcvD8dBb-5YOF9ESSZEJ-1" vertex="1">
           <mxGeometry x="50" y="140" width="800" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="ZHPQO5nCEN9AvDCF9aFu-0" value="&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;&lt;div&gt;原因：&lt;/div&gt;&lt;ul&gt;&lt;li&gt;不完善的流程&lt;/li&gt;&lt;li&gt;人员&lt;/li&gt;&lt;li&gt;系统&lt;/li&gt;&lt;li&gt;外部时间&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;应对：&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;审批工作流&lt;/li&gt;&lt;li&gt;操作日志&lt;/li&gt;&lt;li&gt;盘古鉴权系统&lt;/li&gt;&lt;li&gt;token加密&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="wcvD8dBb-5YOF9ESSZEJ-1">
+        <mxCell id="ZHPQO5nCEN9AvDCF9aFu-0" value="&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;&lt;div&gt;原因：&lt;/div&gt;&lt;ul&gt;&lt;li&gt;不完善的流程&lt;/li&gt;&lt;li&gt;人员&lt;/li&gt;&lt;li&gt;系统&lt;/li&gt;&lt;li&gt;外部事件&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;应对：&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;审批工作流&lt;/li&gt;&lt;li&gt;操作日志&lt;/li&gt;&lt;li&gt;盘古鉴权系统&lt;/li&gt;&lt;li&gt;加密&amp;amp;鉴权&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="wcvD8dBb-5YOF9ESSZEJ-1" vertex="1">
           <mxGeometry x="100" y="170" width="260" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="ZHPQO5nCEN9AvDCF9aFu-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;操作风险&lt;/b&gt;&lt;/font&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="wcvD8dBb-5YOF9ESSZEJ-1">
+        <mxCell id="ZHPQO5nCEN9AvDCF9aFu-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;操作风险&lt;/b&gt;&lt;/font&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" parent="wcvD8dBb-5YOF9ESSZEJ-1" vertex="1">
           <mxGeometry x="106" y="172" width="251" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ZHPQO5nCEN9AvDCF9aFu-2" value="&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;影响：&lt;/div&gt;&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;&lt;ul&gt;&lt;li&gt;监管处罚&lt;/li&gt;&lt;li&gt;重大财产损失&lt;/li&gt;&lt;li&gt;声誉损失&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;保障：&lt;/div&gt;&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;&lt;ul&gt;&lt;li&gt;对账&lt;/li&gt;&lt;li&gt;风控（禁止或降级）&lt;/li&gt;&lt;li&gt;优惠规则校验&lt;/li&gt;&lt;li&gt;智能化&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="wcvD8dBb-5YOF9ESSZEJ-1">
+        <mxCell id="ZHPQO5nCEN9AvDCF9aFu-2" value="&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;影响：&lt;/div&gt;&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;&lt;ul&gt;&lt;li&gt;监管处罚&lt;/li&gt;&lt;li&gt;重大财产损失&lt;/li&gt;&lt;li&gt;声誉损失&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;保障：&lt;/div&gt;&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;&lt;ul&gt;&lt;li&gt;对账&lt;/li&gt;&lt;li&gt;风控（禁止或降级）&lt;/li&gt;&lt;li&gt;优惠规则校验&lt;/li&gt;&lt;li&gt;智能化&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="wcvD8dBb-5YOF9ESSZEJ-1" vertex="1">
           <mxGeometry x="530" y="170" width="270" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="ZHPQO5nCEN9AvDCF9aFu-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;合规+内控&lt;/b&gt;&lt;/font&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="wcvD8dBb-5YOF9ESSZEJ-1">
+        <mxCell id="ZHPQO5nCEN9AvDCF9aFu-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;合规+内控&lt;/b&gt;&lt;/font&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" parent="wcvD8dBb-5YOF9ESSZEJ-1" vertex="1">
           <mxGeometry x="536" y="172" width="251" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ZHPQO5nCEN9AvDCF9aFu-4" value="" style="shape=cross;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="wcvD8dBb-5YOF9ESSZEJ-1">
+        <mxCell id="ZHPQO5nCEN9AvDCF9aFu-4" value="" style="shape=cross;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="wcvD8dBb-5YOF9ESSZEJ-1" vertex="1">
           <mxGeometry x="400" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dCLN6TyMH9J4tYiBf_dg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=35;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="wcvD8dBb-5YOF9ESSZEJ-1">
+        <mxCell id="dCLN6TyMH9J4tYiBf_dg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=35;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="wcvD8dBb-5YOF9ESSZEJ-1" vertex="1">
           <mxGeometry x="50" y="80" width="800" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dCLN6TyMH9J4tYiBf_dg-1" value="&lt;font style=&quot;font-size: 35px&quot;&gt;关于稳&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="wcvD8dBb-5YOF9ESSZEJ-1">
+        <mxCell id="dCLN6TyMH9J4tYiBf_dg-1" value="&lt;font style=&quot;font-size: 35px&quot;&gt;关于稳&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="wcvD8dBb-5YOF9ESSZEJ-1" vertex="1">
           <mxGeometry x="375" y="80" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-YflXsBp-VJYDpOpkElO" name="Page-28">
-    <mxGraphModel dx="1116" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="897" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5iiE9Nc7cl5UJ-9E9pBq-0" />
         <mxCell id="5iiE9Nc7cl5UJ-9E9pBq-1" parent="5iiE9Nc7cl5UJ-9E9pBq-0" />
@@ -4272,7 +4272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Da9vg9sa_vRlGETl3THH" name="Page-29">
-    <mxGraphModel dx="1313" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JYxqbF6hmGfiP9ubsbyf-0" />
         <mxCell id="JYxqbF6hmGfiP9ubsbyf-1" parent="JYxqbF6hmGfiP9ubsbyf-0" />
