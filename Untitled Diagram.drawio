@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T16:43:20.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="hS17dX1rh0srmTljxGS7" version="15.5.8" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2021-10-26T16:52:00.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="xAuutzcg5fUFgUmnUHmC" version="15.5.8" type="github" pages="28">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2064" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4188,7 +4188,7 @@
         <mxCell id="dCLN6TyMH9J4tYiBf_dg-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="wcvD8dBb-5YOF9ESSZEJ-1" vertex="1">
           <mxGeometry x="50" y="140" width="800" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="ZHPQO5nCEN9AvDCF9aFu-0" value="&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;&lt;div&gt;原因：&lt;/div&gt;&lt;ul&gt;&lt;li&gt;不完善的流程&lt;/li&gt;&lt;li&gt;人员&lt;/li&gt;&lt;li&gt;系统&lt;/li&gt;&lt;li&gt;外部事件&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;应对：&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;审批工作流&lt;/li&gt;&lt;li&gt;操作日志&lt;/li&gt;&lt;li&gt;盘古鉴权系统&lt;/li&gt;&lt;li&gt;加密&amp;amp;鉴权&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="wcvD8dBb-5YOF9ESSZEJ-1" vertex="1">
+        <mxCell id="ZHPQO5nCEN9AvDCF9aFu-0" value="&lt;div style=&quot;text-align: left ; line-height: 1.75&quot;&gt;&lt;div&gt;原因：&lt;/div&gt;&lt;ul&gt;&lt;li&gt;不完善的流程&lt;/li&gt;&lt;li&gt;人员&lt;/li&gt;&lt;li&gt;系统&lt;/li&gt;&lt;li&gt;外部事件&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;应对：&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;审批工作流&lt;/li&gt;&lt;li&gt;操作日志&lt;/li&gt;&lt;li&gt;盘古鉴权系统&lt;/li&gt;&lt;li&gt;加密&amp;amp;签名(证书)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="wcvD8dBb-5YOF9ESSZEJ-1" vertex="1">
           <mxGeometry x="100" y="170" width="260" height="360" as="geometry" />
         </mxCell>
         <mxCell id="ZHPQO5nCEN9AvDCF9aFu-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;操作风险&lt;/b&gt;&lt;/font&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" parent="wcvD8dBb-5YOF9ESSZEJ-1" vertex="1">
