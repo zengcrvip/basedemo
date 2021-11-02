@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T16:52:00.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="xAuutzcg5fUFgUmnUHmC" version="15.5.8" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2021-11-02T07:25:20.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="G7xpM4gzzRfYYD-U494v" version="15.6.5" type="github" pages="29">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
-    <mxGraphModel dx="2064" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1975" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4450,6 +4450,14 @@
         <mxCell id="JYxqbF6hmGfiP9ubsbyf-59" value="&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;基本信息：名称、描述、生失效时间等&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;优惠对象：会员、新用户、老用户、普通买家&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;优惠范围：指定店铺、指定活动、指定商品（类目）、指定推广/售卖渠道&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;优惠条件：满x元，满x件，前x单&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;优惠方式：折扣、返现（津贴）、积分、包邮、一口价、换购、满x减x&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;优惠策略：优先级、是否可叠加&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;" vertex="1" parent="JYxqbF6hmGfiP9ubsbyf-1">
           <mxGeometry x="490" y="115" width="820" height="120" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="K0Z2OCdzo77_0SZCnvmZ" name="Page-30">
+    <mxGraphModel dx="1148" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="uEvrs7fzV2IG6G9tHXSz-0" />
+        <mxCell id="uEvrs7fzV2IG6G9tHXSz-1" parent="uEvrs7fzV2IG6G9tHXSz-0" />
       </root>
     </mxGraphModel>
   </diagram>
