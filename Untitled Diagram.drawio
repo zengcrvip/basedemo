@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T05:23:43.734Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="6p6JQ4OAn7C1anLw4Ign" version="15.7.0" type="github" pages="30">
+<mxfile host="app.diagrams.net" modified="2021-11-08T15:46:22.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="-KyrgU48QF2Rv13fEVmP" version="15.7.0" type="github" pages="31">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2045" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4488,6 +4488,42 @@
         </mxCell>
         <mxCell id="uFSu-HQRapdodyBVdKmS-11" value="异常case：&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;1、下单核销完券，立马回到商详，券核销情况还没及时同步到缓存，命中的最优券还是已领取的券，实际到下单页查询DB没有券可用（&lt;/font&gt;刚刚田总刚好碰到这个case&lt;font color=&quot;#000000&quot;&gt;）&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;2、商详命中最优的券是可领取的，到下单页面自动领取失败，下单批价按照账户的券命中一个新的最优&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF3333;align=left;" vertex="1" parent="uFSu-HQRapdodyBVdKmS-1">
           <mxGeometry x="240" y="420" width="420" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QYXtwz66in_ofI4cd_IH" name="Page-32">
+    <mxGraphModel dx="1218" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="6m95IJx4P6CGmCB381Ed-0" />
+        <mxCell id="6m95IJx4P6CGmCB381Ed-1" parent="6m95IJx4P6CGmCB381Ed-0" />
+        <mxCell id="6m95IJx4P6CGmCB381Ed-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="6m95IJx4P6CGmCB381Ed-1" source="6m95IJx4P6CGmCB381Ed-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6m95IJx4P6CGmCB381Ed-5" value="查询价格:&amp;lt;shopid,spuid,skuid,activityid,userid,kocid,channelid,appname&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6m95IJx4P6CGmCB381Ed-4">
+          <mxGeometry x="-0.3333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6m95IJx4P6CGmCB381Ed-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6m95IJx4P6CGmCB381Ed-1">
+          <mxGeometry x="310" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m95IJx4P6CGmCB381Ed-9" value="商品中心&lt;br&gt;&amp;lt;拼团价&amp;amp;活动价&amp;amp;类目信息&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6m95IJx4P6CGmCB381Ed-1">
+          <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m95IJx4P6CGmCB381Ed-11" value="第一步" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="6m95IJx4P6CGmCB381Ed-1" source="6m95IJx4P6CGmCB381Ed-10" target="6m95IJx4P6CGmCB381Ed-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6m95IJx4P6CGmCB381Ed-10" value="价格服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6m95IJx4P6CGmCB381Ed-1">
+          <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m95IJx4P6CGmCB381Ed-12" value="优惠券&lt;br&gt;&amp;lt;券后价&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6m95IJx4P6CGmCB381Ed-1">
+          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m95IJx4P6CGmCB381Ed-13" value="津贴账户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6m95IJx4P6CGmCB381Ed-1">
+          <mxGeometry x="550" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
