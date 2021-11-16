@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T13:34:45.503Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Jh--ezbg5Md1Vns49GBS" version="15.7.3" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2021-11-16T13:35:17.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="WDL5eYZyZcA2jYh6CkYv" version="15.7.3" type="github" pages="32">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2045" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4922,10 +4922,10 @@
         <mxCell id="y3ckpkN-vmHaBIEt4Kja-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FF3333;" edge="1" parent="Mg0NVi9UEWl7s4QdifpF-1" source="y3ckpkN-vmHaBIEt4Kja-0" target="Mg0NVi9UEWl7s4QdifpF-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3ckpkN-vmHaBIEt4Kja-0" value="未领取最优券" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Mg0NVi9UEWl7s4QdifpF-1">
+        <mxCell id="y3ckpkN-vmHaBIEt4Kja-0" value="最优券" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Mg0NVi9UEWl7s4QdifpF-1">
           <mxGeometry x="620" y="860" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3ckpkN-vmHaBIEt4Kja-1" value="rulelist" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#000000;align=center;" vertex="1" parent="Mg0NVi9UEWl7s4QdifpF-1">
+        <mxCell id="y3ckpkN-vmHaBIEt4Kja-1" value="最优券rulelist" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#000000;align=center;" vertex="1" parent="Mg0NVi9UEWl7s4QdifpF-1">
           <mxGeometry x="380" y="570" width="76" height="70" as="geometry" />
         </mxCell>
         <mxCell id="y3ckpkN-vmHaBIEt4Kja-9" value="" style="shape=link;html=1;rounded=0;dashed=1;endArrow=none;" edge="1" parent="Mg0NVi9UEWl7s4QdifpF-1" target="y3ckpkN-vmHaBIEt4Kja-1">
