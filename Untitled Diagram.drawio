@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T03:45:16.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="RSRyRH_FoKRbqpTSVc7n" version="15.7.3" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2021-11-16T03:51:01.965Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="VIigurZC4FRnz2rpQTba" version="15.7.3" type="github" pages="32">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2045" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4804,7 +4804,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mg0NVi9UEWl7s4QdifpF-38" value="资源位投放的券" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Mg0NVi9UEWl7s4QdifpF-1">
-          <mxGeometry x="440" y="1005" width="80" height="80" as="geometry" />
+          <mxGeometry x="470" y="980" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mg0NVi9UEWl7s4QdifpF-39" value="个人账户领取的券" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Mg0NVi9UEWl7s4QdifpF-1">
           <mxGeometry x="130" y="940" width="80" height="80" as="geometry" />
@@ -4825,7 +4825,7 @@
           <mxGeometry x="324" y="550" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Mg0NVi9UEWl7s4QdifpF-44" value="根据商品活动条件匹配，考虑个人领取情况和总的领取情况" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Mg0NVi9UEWl7s4QdifpF-1">
-          <mxGeometry x="720" y="1000" width="180" height="90" as="geometry" />
+          <mxGeometry x="720" y="975" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Mg0NVi9UEWl7s4QdifpF-46" value="方案一：所有的券都考虑个人领取情况&lt;br&gt;方案二：不考虑个人领取情况，商详增加商家券的查询逻辑" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="Mg0NVi9UEWl7s4QdifpF-1">
           <mxGeometry x="170" y="1150" width="560" height="150" as="geometry" />
