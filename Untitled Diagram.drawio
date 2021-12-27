@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T03:32:18.206Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="Cfrt_dXf0ooFc_nG9WW3" version="15.9.1" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2021-12-27T07:43:16.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="S_mxOw-1WtUnzR7U4_28" version="15.9.1" type="github" pages="32">
   <diagram id="0gMku5sTp0iM9H06Dtuo" name="优惠中心业务架构">
     <mxGraphModel dx="2038" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5527,7 +5527,7 @@
         <mxCell id="XBJApR-Pb4KDldNtiCvt-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBorderColor=default;fontSize=8;fontColor=default;strokeColor=#000000;" edge="1" parent="XBJApR-Pb4KDldNtiCvt-1" source="XBJApR-Pb4KDldNtiCvt-13" target="XBJApR-Pb4KDldNtiCvt-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XBJApR-Pb4KDldNtiCvt-19" value="3、根据mediatype和buyer_id换取uid，没有uid做静默注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=default;" vertex="1" connectable="0" parent="XBJApR-Pb4KDldNtiCvt-18">
+        <mxCell id="XBJApR-Pb4KDldNtiCvt-19" value="3、根据mediatype和buyer_id换取uid，没有uid记录临时uid&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=default;" vertex="1" connectable="0" parent="XBJApR-Pb4KDldNtiCvt-18">
           <mxGeometry x="-0.325" relative="1" as="geometry">
             <mxPoint x="9" y="16" as="offset" />
           </mxGeometry>
@@ -5538,7 +5538,7 @@
         <mxCell id="XBJApR-Pb4KDldNtiCvt-14" value="用户中心" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=8;fontColor=default;" vertex="1" parent="XBJApR-Pb4KDldNtiCvt-1">
           <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XBJApR-Pb4KDldNtiCvt-24" value="6、登陆检验，第一次登陆注册时&lt;br&gt;如果根据mediatype和buyer_id找到uid，完善uid信息" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=8;fontColor=default;strokeColor=#000000;align=left;" edge="1" parent="XBJApR-Pb4KDldNtiCvt-1" source="XBJApR-Pb4KDldNtiCvt-15" target="XBJApR-Pb4KDldNtiCvt-14">
+        <mxCell id="XBJApR-Pb4KDldNtiCvt-24" value="6、登陆检验，第一次登陆做微信授权注册uid&lt;br&gt;然后根据mediatype和buyer_id找到uid&#39;，绑定uid和uid&#39;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=8;fontColor=default;strokeColor=#000000;align=left;" edge="1" parent="XBJApR-Pb4KDldNtiCvt-1" source="XBJApR-Pb4KDldNtiCvt-15" target="XBJApR-Pb4KDldNtiCvt-14">
           <mxGeometry x="-0.26" y="-18" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
