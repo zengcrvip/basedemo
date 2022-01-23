@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T13:57:39.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Cw_Ghj_L_C2SVaoWa2KW" version="16.2.6" type="github"><diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">7VpLk+I2EP41HLNlGwzmuDDDbqWyuZBUzkJuQLWy5JElYPLr0y3JPMZsZQ8h+GAO2P2QuvV181kqPBovq9MXw+r9N12CHGVJeRqNX0ZZlk6SAi+keQ+a2SQqdkaU0emiWIu/ISqTqHWihObG0WotrahvlVwrBdze6Jgx+njrttXyNmrNdtBRrDmTXe1forT7qE2T5GL4CmK3j6GLPBo2jH/fGe1UjKe0gmCpWDtNdG32rNTHK9X4dTReGq1tuKtOS5AEa4tYGLf6gfWcsgFlf2ZAPtvClG2AJ8U2mfDNL3GGA5MuwvArUzFX+95Cg2nXdNtYqEfjxXEvLKxrxkl3xG5A3d5WEqUUb7da2VjerCBZSLnUUhs/2ThJimS1in5X+pX/oL6xRn+H1uLRHC+6K21TB2PhdKWKK/8CugJr3tElWuexCLE/0yLKx6tqz6Juf13oqGOxwXbnmS9I400E+yeBzzrAf2Pm0cDP8tfiCcBnkz4hP76D/PujkZ/OlssnID/uVc9PumTj5OOhz5aTJ0Cf96rp8w70awT3wcjn80XyBOSnvWr6aQf53/Xh0chPXubzJyBf9KrnZx3ksySddaDHtdlbeO/C8wHjabr47LFkUuwU6jjCBmhcEFwCt5Wfo6ESZUmx7hb1qpJ5y1LrmFvareC5sv9BsdLsQ7HSbrGK6Z1iTR9RrKJTrN+0gYqG1I2ja+lhwNIJS8Ex5ChbhvNAg+cBsI6srBS1aAQXaocSSBG9Gij9HKQUrqk0iRaq2s8pFBelKJ2iqR19SbbB+ORt29jgd/Q7xSiMFG+OfcK7P8kOSlQ+OLmIIBxQyaoQ/c2JBi9KY2s5coITGC4ss0IrCiklq7hu4wZnXEabjQ8naj+Qvphfd4Wr0C0CmI6lfF5CKOYs5SuM83m34AmKZqA2sAdVgvFYeuVBS1djQuBT97gl0DQkcmz9Swk8KA6/tm4nGLkpSj+0IyqcoTReTxxqCy5UzOOqOWfA/QjualEyG0Z7BGqj8fin2mqFSvjEuJM1CxjSJNstFpdkPCyCCX6VliFhFqAXHuLmXEdXYUpTST/zDSY03dHd2neEh7cG09Q0rfXY4UmOFqkr5UXReFAULo1EwLPmpQ/PsPn6c+4apqy4Qqt6c+DzcGVroRVabak5ktDjSP7m3CzAwhBs/LBuRhLbkEpK7XHB5rKhFAcqYkzc9yr6+8ZhhhPhcEsjNoBoe3cRrqXgll2QhlMtkbQ2+tOP+LFB4sIf1R8aaesF9xMdRtz6z78/vFrClLC1twyYZlFesUpIoqWvIA9AbPohXOTkRz3Hzmf+SI3ZvefY5A41TmaP4Mb5wI0DNw7cOHBjH7gxy3vFje2mdSDHgRwHchzI8bnkOOnXxjHt/r0zkONAjgM5DuT4BHLMe7Zz7P4FO5DjQI4DOQ7k+ARynPVs59h9S2Igx4EcB3IcyPEJ5Fjk+f9HjiheXsj0tqsXXsev/wA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-23T14:28:02.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="gMXkqPoFuu1YdxOGrMKi" version="16.2.6" type="github">
+  <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
+    <mxGraphModel dx="1211" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="57fe6abec08f04cb-1" value="产品" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-2" value="设计" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="180" width="121" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-3" value="开发" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="340" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-4" value="测试" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="475" y="180" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-5" value="发布" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="611" y="180" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-7" value="事前" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="90" y="110" width="650" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-8" value="&lt;ul&gt;&lt;li&gt;业务风险点识别与评估&lt;/li&gt;&lt;li&gt;业务风险控制&lt;/li&gt;&lt;/ul&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="260" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-9" value="&lt;ul&gt;&lt;li&gt;设计建模&lt;/li&gt;&lt;li&gt;实现方案风险点识别与评估&lt;/li&gt;&lt;li&gt;技术风险控制&lt;/li&gt;&lt;li&gt;风险关联分析&lt;/li&gt;&lt;/ul&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="168.5" y="260" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-10" value="&lt;ul&gt;&lt;li&gt;接入风控相关平台&lt;/li&gt;&lt;li&gt;数据埋点采集&lt;/li&gt;&lt;li&gt;单元测试覆盖&lt;/li&gt;&lt;li&gt;code review&lt;/li&gt;&lt;li&gt;风险控制实现与review&lt;/li&gt;&lt;/ul&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="331" y="260" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-11" value="&lt;ul&gt;&lt;li&gt;模型更新验证&lt;/li&gt;&lt;li&gt;风险控制方案验证&lt;/li&gt;&lt;li&gt;数据质量验证&lt;/li&gt;&lt;li&gt;自动化回归覆盖&lt;/li&gt;&lt;/ul&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="475" y="260" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-12" value="&lt;ul&gt;&lt;li&gt;灰度发布方案&lt;/li&gt;&lt;li&gt;快速回滚方案&lt;/li&gt;&lt;/ul&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="611" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-1" value="在线核对" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-3" value="业务监控" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-5" value="系统监控" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="520" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-6" value="事中" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-7" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;系统接入申请&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;分布式事务中间状态对齐&lt;/li&gt;&lt;li&gt;T+1异步对账&lt;/li&gt;&lt;li&gt;系统内部数据一致性稽核&lt;/li&gt;&lt;/ul&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="595" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-9" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;7*24小时业务监控&lt;/span&gt;&lt;/li&gt;&lt;li&gt;埋点数据分析&lt;/li&gt;&lt;li&gt;预算熔断告警&lt;/li&gt;&lt;li&gt;企微群快速反馈通道&lt;/li&gt;&lt;li&gt;业务看板&lt;/li&gt;&lt;/ul&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="321" y="600" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-10" value="&lt;ul&gt;&lt;li&gt;007告警、调用、资源监控&lt;/li&gt;&lt;li&gt;CLS错误日志监控&lt;/li&gt;&lt;li&gt;Panic监控&lt;/li&gt;&lt;li&gt;压测常态化&lt;/li&gt;&lt;li&gt;oncall告警机制&lt;/li&gt;&lt;li&gt;核心接口自动化回归测试能力&lt;/li&gt;&lt;/ul&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-12" value="在线核对" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="860" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-13" value="业务监控" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="860" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-14" value="系统监控" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="860" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-15" value="事后" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="90" y="790" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-16" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;系统接入申请&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;分布式事务中间状态对齐&lt;/li&gt;&lt;li&gt;T+1异步对账&lt;/li&gt;&lt;li&gt;系统内部数据一致性稽核&lt;/li&gt;&lt;/ul&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="935" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-17" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;7*24小时业务监控&lt;/span&gt;&lt;/li&gt;&lt;li&gt;埋点数据分析&lt;/li&gt;&lt;li&gt;预算熔断告警&lt;/li&gt;&lt;li&gt;企微群快速反馈通道&lt;/li&gt;&lt;li&gt;业务看板&lt;/li&gt;&lt;/ul&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="331" y="940" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zxxQrr_cFt4vfT_0u5Ij-18" value="&lt;ul&gt;&lt;li&gt;007告警、调用、资源监控&lt;/li&gt;&lt;li&gt;CLS错误日志监控&lt;/li&gt;&lt;li&gt;Panic监控&lt;/li&gt;&lt;li&gt;压测常态化&lt;/li&gt;&lt;li&gt;oncall告警机制&lt;/li&gt;&lt;li&gt;核心接口自动化回归测试能力&lt;/li&gt;&lt;/ul&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="940" width="230" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
