@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T02:52:09.949Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SBLm9-b1MrhnQFprqP8W" version="18.1.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-06-15T09:31:16.538Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="y-BIRekXwMKtUB4YUx80" version="18.1.3" type="github" pages="17">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="2378" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2681,7 +2681,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UNRNkJGT4tYLw8MtcjmY-6" value="商家入驻结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h0w9rJsedoBTd0Wh_VT--1">
+        <mxCell id="UNRNkJGT4tYLw8MtcjmY-6" value="商家入驻完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h0w9rJsedoBTd0Wh_VT--1">
           <mxGeometry x="110" y="180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UNRNkJGT4tYLw8MtcjmY-15" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="h0w9rJsedoBTd0Wh_VT--1" source="UNRNkJGT4tYLw8MtcjmY-11" target="UNRNkJGT4tYLw8MtcjmY-14">
@@ -2761,9 +2761,6 @@
         </mxCell>
         <mxCell id="UNRNkJGT4tYLw8MtcjmY-30" value="主账号（店主角色）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="h0w9rJsedoBTd0Wh_VT--1">
           <mxGeometry x="770" y="266.5" width="40" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="UNRNkJGT4tYLw8MtcjmY-35" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h0w9rJsedoBTd0Wh_VT--1">
-          <mxGeometry x="540" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UNRNkJGT4tYLw8MtcjmY-36" value="&lt;b&gt;主账号开通流程&lt;/b&gt;" style="text;html=1;strokeColor=#996185;fillColor=#e6d0de;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#d5739d;" vertex="1" parent="h0w9rJsedoBTd0Wh_VT--1">
           <mxGeometry x="335" y="5" width="100" height="30" as="geometry" />
@@ -2920,7 +2917,7 @@
         <mxCell id="UNRNkJGT4tYLw8MtcjmY-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="h0w9rJsedoBTd0Wh_VT--1" source="UNRNkJGT4tYLw8MtcjmY-92" target="UNRNkJGT4tYLw8MtcjmY-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UNRNkJGT4tYLw8MtcjmY-92" value="set cookie&lt;br&gt;skey,UId,uin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h0w9rJsedoBTd0Wh_VT--1">
+        <mxCell id="UNRNkJGT4tYLw8MtcjmY-92" value="set cookie&lt;br&gt;SKEY,UId,uin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h0w9rJsedoBTd0Wh_VT--1">
           <mxGeometry x="1390" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNRNkJGT4tYLw8MtcjmY-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="h0w9rJsedoBTd0Wh_VT--1" source="UNRNkJGT4tYLw8MtcjmY-94" target="UNRNkJGT4tYLw8MtcjmY-95">
